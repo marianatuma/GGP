@@ -1,0 +1,1747 @@
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+8989
+9013
+9013
+9018
+9023
+9026
+9059
+9064
+9096
+Tempo médio = 9033.444444444445
+Tempo minimo = 8989
+Tempo maximo = 9096
+Mediana = 9023
+Desvio padrão = 968.2469135802468
+Duração de partida = 90110
+Quantidade de rodadas = 17
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+8998
+9002
+9002
+9003
+9006
+9010
+9013
+9022
+9025
+9025
+9025
+9045
+9057
+9083
+Tempo médio = 9022.57142857143
+Tempo minimo = 8998
+Tempo maximo = 9083
+Mediana = 9017
+Desvio padrão = 551.1020408163265
+Duração de partida = 140253
+Quantidade de rodadas = 27
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+8988
+9005
+9008
+9012
+9029
+9034
+9037
+9060
+9070
+9238
+Tempo médio = 9048.1
+Tempo minimo = 8988
+Tempo maximo = 9238
+Mediana = 9031
+Desvio padrão = 4575.09
+Duração de partida = 100284
+Quantidade de rodadas = 19
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+8991
+8998
+9005
+9012
+9012
+9013
+9020
+9035
+9042
+9050
+9068
+9095
+Tempo médio = 9028.416666666666
+Tempo minimo = 8991
+Tempo maximo = 9095
+Mediana = 9016
+Desvio padrão = 867.9097222222221
+Duração de partida = 120247
+Quantidade de rodadas = 23
+Escore obtido = 100======Estatisticas Monte Carlo========
+Tempos de deliberação:
+9021
+9042
+9054
+9127
+9211
+9244
+Tempo médio = 9116.5
+Tempo minimo = 9021
+Tempo maximo = 9244
+Mediana = 9090
+Desvio padrão = 7312.25
+Duração de partida = 60366
+Quantidade de rodadas = 11
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+9007
+9031
+9044
+9046
+9063
+Tempo médio = 9038.2
+Tempo minimo = 9007
+Tempo maximo = 9063
+Mediana = 9044
+Desvio padrão = 346.9599999999999
+Duração de partida = 49816
+Quantidade de rodadas = 9
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+8995
+8996
+9008
+9011
+9019
+9021
+9024
+9046
+9086
+9134
+Tempo médio = 9034.0
+Tempo minimo = 8995
+Tempo maximo = 9134
+Mediana = 9020
+Desvio padrão = 1751.2
+Duração de partida = 100176
+Quantidade de rodadas = 19
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+9006
+9015
+9032
+9070
+9071
+Tempo médio = 9038.8
+Tempo minimo = 9006
+Tempo maximo = 9071
+Mediana = 9032
+Desvio padrão = 739.7599999999999
+Duração de partida = 49833
+Quantidade de rodadas = 9
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+8997
+8998
+9006
+9020
+9023
+9024
+9026
+9030
+9032
+9041
+9072
+9083
+9086
+9191
+Tempo médio = 9044.92857142857
+Tempo minimo = 8997
+Tempo maximo = 9191
+Mediana = 9028
+Desvio padrão = 2394.6377551020414
+Duração de partida = 140583
+Quantidade de rodadas = 27
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+9018
+9028
+9039
+9040
+9050
+9062
+9077
+9080
+9097
+9117
+Tempo médio = 9060.8
+Tempo minimo = 9018
+Tempo maximo = 9117
+Mediana = 9056
+Desvio padrão = 903.36
+Duração de partida = 100436
+Quantidade de rodadas = 19
+Escore obtido = 100
+
+////// MONTE CARLO COMO SEGUNDO JOGADOR////
+
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,8953)
+(2,9000)
+(3,9011)
+(4,9024)
+(5,9051)
+(6,9059)
+(7,9095)
+Tempo médio = 7899.5
+Tempo minimo = 3
+Tempo maximo = 9095
+Mediana = 9017
+Desvio padrão = 8909402.5
+Duração de partida = 70728
+Quantidade de rodadas = 14
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,8995)
+(2,9003)
+(3,9005)
+(4,9024)
+(5,9028)
+(6,9029)
+(7,9040)
+(8,9055)
+(9,9134)
+(10,9156)
+Tempo médio = 9046.9
+Tempo minimo = 8995
+Tempo maximo = 9156
+Mediana = 9028
+Desvio padrão = 2718.09
+Duração de partida = 101143
+Quantidade de rodadas = 20
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,9032)
+(2,9037)
+(3,9052)
+(4,9073)
+(5,9124)
+(6,9126)
+Tempo médio = 9074.0
+Tempo minimo = 9032
+Tempo maximo = 9126
+Mediana = 9062
+Desvio padrão = 1470.3333333333333
+Duração de partida = 60860
+Quantidade de rodadas = 12
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+1,9013
+2,9013
+3,9023
+4,9027
+5,9028
+6,9224
+Tempo médio = 9054.666666666666
+Tempo minimo = 9013
+Tempo maximo = 9224
+Mediana = 9025
+Desvio padrão = 5770.88888888889
+Duração de partida = 61140
+Quantidade de rodadas = 13
+Escore obtido = 0
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,9013)
+(2,9032)
+(3,9034)
+(4,9046)
+(5,9057)
+(6,9065)
+(7,9077)
+(8,9082)
+(9,9141)
+Tempo médio = 9060.777777777777
+Tempo minimo = 9013
+Tempo maximo = 9141
+Mediana = 9057
+Desvio padrão = 1247.506172839506
+Duração de partida = 90878
+Quantidade de rodadas = 18
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,9001)
+(2,9031)
+(3,9048)
+(4,9061)
+(5,9069)
+(6,9101)
+(7,9127)
+Tempo médio = 9062.57142857143
+Tempo minimo = 9001
+Tempo maximo = 9127
+Mediana = 9061
+Desvio padrão = 1524.530612244898
+Duração de partida = 70686
+Quantidade de rodadas = 14
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,9006)
+(2,9009)
+(3,9012)
+(4,9028)
+(5,9037)
+(6,9039)
+(7,9047)
+(8,9047)
+(9,9051))
+(10,9068)
+(11,9083)
+(12,9124)
+(13,9225)
+(14,9299)
+Tempo médio = 9076.785714285714
+Tempo minimo = 9006
+Tempo maximo = 9299
+Mediana = 9047
+Desvio padrão = 6808.882653061226
+Duração de partida = 142115
+Quantidade de rodadas = 29
+Escore obtido = 0
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,9003)
+(2,9007)
+(3,9008)
+(4,9011)
+(5,9025)
+(6,9046)
+(7,9088)
+(8,9111)
+Tempo médio = 9037.375
+Tempo minimo = 9003
+Tempo maximo = 9111
+Mediana = 9018
+Desvio padrão = 1484.234375
+Duração de partida = 80544
+Quantidade de rodadas = 16
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,8999)
+(2,9007)
+(3,9018)
+(4,9024)
+(5,9092)
+(6,9126)
+(7,9167)
+Tempo médio = 9061.857142857143
+Tempo minimo = 8999
+Tempo maximo = 9167
+Mediana = 9024
+Desvio padrão = 3770.6938775510207
+Duração de partida = 70650
+Quantidade de rodadas = 14
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,9008)
+(2,9017)
+(3,9019)
+(4,9035)
+(5,9036)
+(6,9053)
+(7,9060)
+Tempo médio = 9032.57142857143
+Tempo minimo = 9008
+Tempo maximo = 9060
+Mediana = 9035
+Desvio padrão = 316.8163265306122
+Duração de partida = 70988
+Quantidade de rodadas = 15
+Escore obtido = 0 
+
+
+////CHINOOK
+
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1, 8969)
+(2, 8974)
+(3, 8980)
+(4, 8982)
+(5, 8984)
+(6, 8989)
+(7, 8994)
+(8, 9007)
+(9, 9008)
+(10,9014)
+(11,9015)
+(12,9017)
+(13,9019)
+(14,9026)
+(15,9047)
+Tempo médio = 9001.666666666666
+Tempo minimo = 8969
+Tempo maximo = 9047
+Mediana = 9007
+Desvio padrão = 453.4222222222221
+Duração de partida = 143210
+Quantidade de rodadas = 15
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1, 8962)
+(2, 8969)
+(3, 8971)
+(4, 8971)
+(5, 8975)
+(6, 8980)
+(7, 8981)
+(8, 8981)
+(9, 8983)
+(10,8990)
+(11,8992)
+(12,8996)
+(13,9006)
+(14,9007)
+(15,9009)
+(16,9014)
+(17,9058)
+Tempo médio = 8990.882352941177
+Tempo minimo = 8962
+Tempo maximo = 9058
+Mediana = 8983
+Desvio padrão = 506.8096885813149
+Duração de partida = 162119
+Quantidade de rodadas = 17
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1, 8964)
+(2, 8969)
+(3, 8976)
+(4, 8978)
+(5, 8979)
+(6, 8983)
+(7, 8983)
+(8, 8985)
+(9, 8987)
+(10,8993)
+(11,8993)
+(12,8994)
+(13,8995)
+(14,8997)
+(15,8999)
+(16,9003)
+(17,9004)
+(18,9008)
+(19,9013)
+(20,9015)
+Tempo médio = 8990.9
+Tempo minimo = 8964
+Tempo maximo = 9015
+Mediana = 8993
+Desvio padrão = 186.29
+Duração de partida = 190709
+Quantidade de rodadas = 20
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1, 8961)
+(2, 8969)
+(3, 8972)
+(4, 8974)
+(5, 8979)
+(6, 8981)
+(7, 8982)
+(8, 8982)
+(9, 8985)
+(10,8987)
+(11,8988)
+(12,8989)
+(13,8989)
+(14,8995)
+(15,8996)
+(16,8996)
+(17,8997)
+(18,9002)
+(19,9020)
+(20,9029)
+Tempo médio = 8988.65
+Tempo minimo = 8961
+Tempo maximo = 9029
+Mediana = 8987
+Desvio padrão = 245.32749999999996
+Duração de partida = 190710
+Quantidade de rodadas = 20
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1, 8968)
+(2, 8974)
+(3, 8977)
+(4, 8981)
+(5, 8989)
+(6, 8989)
+(7, 8990)
+(8, 8990)
+(9, 8990)
+(10,8993)
+(11,8994)
+(12,8999)
+(13,9001)
+(14,9003)
+(15,9009)
+Tempo médio = 8989.8
+Tempo minimo = 8968
+Tempo maximo = 9009
+Mediana = 8990
+Desvio padrão = 116.56
+Duração de partida = 142995
+Quantidade de rodadas = 15
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1, 8967)
+(2, 8970)
+(3, 8971)
+(4, 8976)
+(5, 8977)
+(6, 8978)
+(7, 8981)
+(8, 8982)
+(9, 8983)
+(10,8984)
+(11,8986)
+(12,8987)
+(13,8991)
+(14,8997)
+(15,9005)
+(16,9011)
+(17,9012)
+(18,9020)
+(19,9021)
+(20,9031)
+Tempo médio = 8991.5
+Tempo minimo = 8967
+Tempo maximo = 9031
+Mediana = 8985
+Desvio padrão = 337.55
+Duração de partida = 190731
+Quantidade de rodadas = 20
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1, 8965)
+(2, 8965)
+(3, 8970)
+(4, 8971)
+(5, 8975)
+(6, 8976)
+(7, 8980)
+(8, 8981)
+(9, 8982)
+(10,8982)
+(11,8984)
+(12,8985)
+(13,8996)
+(14,8997)
+(15,8998)
+(16,9001)
+(17,9005)
+(18,9005)
+(19,9006)
+(20,9014)
+(21,9021)
+Tempo médio = 8988.52380952381
+Tempo minimo = 8965
+Tempo maximo = 9021
+Mediana = 8984
+Desvio padrão = 250.91609977324265
+Duração de partida = 200179
+Quantidade de rodadas = 21
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1, 8974)
+(2, 8980)
+(3, 8986)
+(4, 8987)
+(5, 8990)
+(6, 8990)
+(7, 8991)
+(8, 8992)
+(9, 8992)
+(10,8993)
+(11,8994)
+(12,8997)
+(13,9000)
+(14,9002)
+(15,9005)
+(16,9005)
+(17,9006)
+(18,9008)
+(19,9011)
+(20,9011)
+(21,9013)
+(22,9015)
+(23,9015)
+(24,9022)
+(25,9022)
+(26,9025)
+(27,9027)
+(28,9030)
+Tempo médio = 9002.964285714286
+Tempo minimo = 8974
+Tempo maximo = 9030
+Mediana = 9003
+Desvio padrão = 211.96301020408154
+Duração de partida = 267200
+Quantidade de rodadas = 28
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1, 8980)
+(2, 8984)
+(3, 8984)
+(4, 8988)
+(5, 8992)
+(6, 8995)
+(7, 8995)
+(8, 8996)
+(9, 8998)
+(10,8999)
+(11,8999)
+(12,9001)
+(13,9002)
+(14,9009)
+(15,9012)
+(16,9014)
+(17,9014)
+(18,9017)
+(19,9019)
+(20,9020)
+(21,9022)
+(22,9043)
+Tempo médio = 9003.772727272728
+Tempo minimo = 8980
+Tempo maximo = 9043
+Mediana = 9000
+Desvio padrão = 221.99380165289259
+Duração de partida = 209988
+Quantidade de rodadas = 22
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1, 8971)
+(2, 8974)
+(3, 8983)
+(4, 8984)
+(5, 8987)
+(6, 8989)
+(7, 8989)
+(8, 8991)
+(9, 8993)
+(10,8993)
+(11,8996)
+(12,8996)
+(13,8999)
+(14,9000)
+(15,9001)
+(16,9001)
+(17,9002)
+(18,9004)
+(19,9007)
+(20,9007)
+(21,9016)
+(22,9018)
+(23,9022)
+Tempo médio = 8996.652173913044
+Tempo minimo = 8971
+Tempo maximo = 9022
+Mediana = 8996
+Desvio padrão = 157.00945179584116
+Duração de partida = 219338
+Quantidade de rodadas = 23
+Escore obtido = 100
+
+////// ESTATÍSTICAS NOVAS ////////
+
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4
+(2,3996
+(3,3998
+(4,4017
+(5,4028
+(6,4029
+(7,4082
+(8,4098
+Tempo médio = 3531.5
+Tempo minimo = 4
+Tempo maximo = 4098
+Mediana = 4022
+Desvio padrão = 1778792.5
+Duração de partida = 36089
+Quantidade de rodadas = 14
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3998
+(2,4012
+(3,4060
+(4,4075
+(5,4076
+(6,4310
+Tempo médio = 4088.5
+Tempo minimo = 3998
+Tempo maximo = 4310
+Mediana = 4067
+Desvio padrão = 10709.25
+Duração de partida = 30892
+Quantidade de rodadas = 12
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4000
+(2,4003
+(3,4003
+(4,4012
+(5,4021
+(6,4022
+(7,4024
+(8,4025
+(9,4027
+(10,4032
+(11,4035
+(12,4040
+(13,4084
+Tempo médio = 4025.230769230769
+Tempo minimo = 4000
+Tempo maximo = 4084
+Mediana = 4024
+Desvio padrão = 434.33136094674563
+Duração de partida = 66038
+Quantidade de rodadas = 26
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3999
+(2,4020
+(3,4022
+(4,4022
+(5,4034
+(6,4036
+(7,4057
+(8,4107
+(9,4149
+Tempo médio = 4049.5555555555557
+Tempo minimo = 3999
+Tempo maximo = 4149
+Mediana = 4034
+Desvio padrão = 2068.6913580246915
+Duração de partida = 45836
+Quantidade de rodadas = 18
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1, 3994
+(2, 3998
+(3, 4001
+(4, 4004
+(5, 4007
+(6, 4007
+(7, 4010
+(8, 4021
+(9, 4030
+(10,4034
+(11,4038
+(12,4061
+(13,4062
+(14,4069
+(15,4108
+(16,4109
+Tempo médio = 4034.5625
+Tempo minimo = 3994
+Tempo maximo = 4109
+Mediana = 4025
+Desvio padrão = 1309.62109375
+Duração de partida = 81232
+Quantidade de rodadas = 32
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1, 3996
+(2, 4027
+(3, 4044
+(4, 4045
+(5, 4051
+(6, 4059
+(7, 4060
+(8, 4088
+(9, 4089
+(10,4100
+(11,4108
+(12,4128
+(13,4206
+(14,4233
+Tempo médio = 4088.1428571428573
+Tempo minimo = 3996
+Tempo maximo = 4233
+Mediana = 4074
+Desvio padrão = 4004.1224489795923
+Duração de partida = 71795
+Quantidade de rodadas = 28
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4001
+(2,4004
+(3,4007
+(4,4013
+(5,4029
+(6,4030
+(7,4126
+(8,4138
+Tempo médio = 4043.5
+Tempo minimo = 4001
+Tempo maximo = 4138
+Mediana = 4021
+Desvio padrão = 2719.75
+Duração de partida = 40608
+Quantidade de rodadas = 16
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3997
+(2,4002
+(3,4044
+(4,4077
+(5,4080
+(6,4087
+(7,4123
+(8,4150
+Tempo médio = 4070.0
+Tempo minimo = 3997
+Tempo maximo = 4150
+Mediana = 4078
+Desvio padrão = 2534.5
+Duração de partida = 40843
+Quantidade de rodadas = 16
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4021
+(2,4030
+(3,4043
+(4,4047
+(5,4085
+(6,4124
+Tempo médio = 4058.3333333333335
+Tempo minimo = 4021
+Tempo maximo = 4124
+Mediana = 4045
+Desvio padrão = 1263.888888888889
+Duração de partida = 30550
+Quantidade de rodadas = 12
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4015
+(2,4019
+(3,4026
+(4,4034
+(5,4083
+(6,4097
+Tempo médio = 4045.6666666666665
+Tempo minimo = 4015
+Tempo maximo = 4097
+Mediana = 4030
+Desvio padrão = 1033.888888888889
+Duração de partida = 30479
+Quantidade de rodadas = 12
+Escore obtido = 100
+
+\\\\\\\\ CHINOOK NOVO \\\\\\\\\\\\\\\\\
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3970
+(2,3982
+(3,3983
+(4,3986
+(5,3987
+(6,3987
+(7,3990
+(8,3991
+(9,3994
+(10,3996
+(11,3997
+(12,3999
+(13,3999
+(14,3999
+(15,3999
+(16,3999
+(17,4000
+(18,4000
+(19,4001
+(20,4003
+(21,4010
+(22,4013
+(23,4013
+(24,4013
+(25,4014
+(26,4024
+(27,4038
+(28,4038
+(29,4049
+Tempo médio = 4002.551724137931
+Tempo minimo = 3970
+Tempo maximo = 4049
+Mediana = 3999
+Desvio padrão = 302.8680142687279
+Duração de partida = 132136
+Quantidade de rodadas = 29
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3981
+(2,3982
+(3,3986
+(4,3988
+(5,3990
+(6,3991
+(7,3993
+(8,3997
+(9,3998
+(10,4003
+(11,4005
+(12,4009
+(13,4023
+(14,4024
+(15,4028
+(16,4035
+Tempo médio = 4002.0625
+Tempo minimo = 3981
+Tempo maximo = 4035
+Mediana = 3997
+Desvio padrão = 276.80859375
+Duração de partida = 72652
+Quantidade de rodadas = 16
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3984
+(2,3986
+(3,3987
+(4,3987
+(5,3987
+(6,3989
+(7,3990
+(8,3993
+(9,3999
+(10,4000
+(11,4001
+(12,4001
+(13,4001
+(14,4002
+(15,4002
+(16,4003
+(17,4007
+(18,4007
+(19,4008
+(20,4013
+(21,4015
+(22,4024
+(23,4046
+(24,4051
+Tempo médio = 4003.4583333333335
+Tempo minimo = 3984
+Tempo maximo = 4051
+Mediana = 4001
+Desvio padrão = 283.83159722222223
+Duração de partida = 108905
+Quantidade de rodadas = 24
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3985
+(2,3998
+(3,4001
+(4,4002
+(5,4013
+(6,4015
+(7,4015
+(8,4019
+(9,4026
+(10,4030
+(11,4044
+(12,4050
+Tempo médio = 4016.5
+Tempo minimo = 3985
+Tempo maximo = 4050
+Mediana = 4015
+Desvio padrão = 329.9166666666667
+Duração de partida = 54623
+Quantidade de rodadas = 12
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3980
+(2,3994
+(3,3996
+(4,4005
+(5,4010
+(6,4010
+(7,4014
+(8,4015
+(9,4027
+(10,4027
+(11,4033
+(12,4061
+(13,4067
+Tempo médio = 4018.3846153846152
+Tempo minimo = 3980
+Tempo maximo = 4067
+Mediana = 4014
+Desvio padrão = 573.9289940828402
+Duração de partida = 59178
+Quantidade de rodadas = 13
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3984
+(2,3987
+(3,3994
+(4,3994
+(5,4001
+(6,4002
+(7,4002
+(8,4003
+(9,4004
+(10,4004
+(11,4005
+(12,4008
+(13,4013
+(14,4017
+(15,4017
+(16,4018
+(17,4020
+(18,4030
+(19,4098
+Tempo médio = 4010.5789473684213
+Tempo minimo = 3984
+Tempo maximo = 4098
+Mediana = 4004
+Desvio padrão = 551.8227146814404
+Duração de partida = 86353
+Quantidade de rodadas = 19
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3979
+(2,3983
+(3,3984
+(4,3985
+(5,3986
+(6,3988
+(7,3990
+(8,3990
+(9,3995
+(10,3995
+(11,3996
+(12,3998
+(13,4002
+(14,4004
+(15,4008
+(16,4009
+(17,4013
+(18,4014
+(19,4014
+(20,4016
+(21,4022
+(22,4026
+(23,4030
+(24,4040
+Tempo médio = 4002.7916666666665
+Tempo minimo = 3979
+Tempo maximo = 4040
+Mediana = 4000
+Desvio padrão = 261.4982638888889
+Duração de partida = 108842
+Quantidade de rodadas = 24
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3985
+(2,3990
+(3,3998
+(4,4001
+(5,4002
+(6,4004
+(7,4004
+(8,4004
+(9,4006
+(10,4012
+(11,4012
+(12,4012
+(13,4020
+(14,4022
+(15,4027
+(16,4035
+(17,4049
+Tempo médio = 4010.764705882353
+Tempo minimo = 3985
+Tempo maximo = 4049
+Mediana = 4006
+Desvio padrão = 242.29757785467123
+Duração de partida = 77237
+Quantidade de rodadas = 17
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3985
+(2,3985
+(3,3986
+(4,3986
+(5,3986
+(6,3991
+(7,3991
+(8,3994
+(9,3994
+(10,3994
+(11,3999
+(12,4005
+(13,4005
+(14,4005
+(15,4006
+(16,4007
+(17,4012
+(18,4018
+(19,4019
+(20,4020
+Tempo médio = 3999.4
+Tempo minimo = 3985
+Tempo maximo = 4020
+Mediana = 3996
+Desvio padrão = 134.54000000000002
+Duração de partida = 90645
+Quantidade de rodadas = 20
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3984
+(2,3987
+(3,3988
+(4,3989
+(5,3989
+(6,3994
+(7,4001
+(8,4001
+(9,4004
+(10,4008
+(11,4010
+(12,4019
+(13,4019
+(14,4020
+(15,4024
+(16,4038
+(17,4047
+(18,4054
+Tempo médio = 4009.777777777778
+Tempo minimo = 3984
+Tempo maximo = 4054
+Mediana = 4006
+Desvio padrão = 420.8395061728395
+Duração de partida = 81759
+Quantidade de rodadas = 18
+Escore obtido = 100
+
+
+//////////CONNECT FOUR CONTRA MONTE CARLO////////////
+
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,6
+(2,4009
+(3,4016
+(4,4016
+(5,4046
+(6,4049
+Tempo médio = 4057.0
+Tempo minimo = 6
+Tempo maximo = 4049
+Mediana = 4016
+Desvio padrão = 2246075.3333333335
+Duração de partida = 35588
+Quantidade de rodadas = 10
+Escore obtido = 0
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3998
+(2,4004
+(3,4011
+(4,4025
+(5,4060
+(6,4072
+(7,4084
+(8,4087
+(9,4114
+(10,4154
+(11,4164
+Tempo médio = 4070.2727272727275
+Tempo minimo = 3998
+Tempo maximo = 4164
+Mediana = 4072
+Desvio padrão = 3042.0165289256197
+Duração de partida = 68996
+Quantidade de rodadas = 21
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4000
+(2,4019
+(3,4053
+(4,4055
+(5,4087
+Tempo médio = 4042.8
+Tempo minimo = 4000
+Tempo maximo = 4087
+Mediana = 4053
+Desvio padrão = 920.96
+Duração de partida = 34904
+Quantidade de rodadas = 9
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3999
+(2,3999
+(3,4000
+(4,4005
+(5,4021
+(6,4047
+(7,4047
+(8,4049
+Tempo médio = 4020.875
+Tempo minimo = 3999
+Tempo maximo = 4049
+Mediana = 4013
+Desvio padrão = 475.109375
+Duração de partida = 51920
+Quantidade de rodadas = 15
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4008
+(2,4017
+(3,4044
+(4,4076
+(5,4079
+(6,4081
+Tempo médio = 4050.8333333333335
+Tempo minimo = 4008
+Tempo maximo = 4081
+Mediana = 4060
+Desvio padrão = 893.8055555555555
+Duração de partida = 40503
+Quantidade de rodadas = 11
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3999
+(2,4020
+(3,4031
+(4,4032
+(5,4033
+(6,4078
+(7,4164
+(8,4332
+Tempo médio = 4086.125
+Tempo minimo = 3999
+Tempo maximo = 4332
+Mediana = 4032
+Desvio padrão = 10917.359375
+Duração de partida = 52980
+Quantidade de rodadas = 16
+Escore obtido = 0
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4006
+(2,4010
+(3,4016
+(4,4025
+(5,4035
+(6,4045
+(7,4048
+(8,4085
+(9,4105
+(10,4177
+Tempo médio = 4055.2
+Tempo minimo = 4006
+Tempo maximo = 4177
+Mediana = 4040
+Desvio padrão = 2567.96
+Duração de partida = 64279
+Quantidade de rodadas = 20
+Escore obtido = 0
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4036
+(2,4052
+(3,4081
+(4,4097
+Tempo médio = 4066.5
+Tempo minimo = 4036
+Tempo maximo = 4097
+Mediana = 4066
+Desvio padrão = 570.25
+Duração de partida = 30261
+Quantidade de rodadas = 8
+Escore obtido = 0
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4003
+(2,4031
+(3,4052
+(4,4075
+(5,4275
+Tempo médio = 4087.2
+Tempo minimo = 4003
+Tempo maximo = 4275
+Mediana = 4052
+Desvio padrão = 9380.960000000001
+Duração de partida = 36103
+Quantidade de rodadas = 10
+Escore obtido = 0
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4003
+(2,4029
+(3,4034
+(4,4085
+(5,4108
+(6,4169
+(7,4175
+Tempo médio = 4086.1428571428573
+Tempo minimo = 4003
+Tempo maximo = 4175
+Mediana = 4085
+Desvio padrão = 4019.5510204081634
+Duração de partida = 47346
+Quantidade de rodadas = 14
+Escore obtido = 0
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4015
+(2,4027
+(3,4033
+(4,4042
+(5,4079
+Tempo médio = 4039.2
+Tempo minimo = 4015
+Tempo maximo = 4079
+Mediana = 4033
+Desvio padrão = 472.96000000000004
+Duração de partida = 36010
+Quantidade de rodadas = 10
+Escore obtido = 0
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4016
+(2,4025
+(3,4043
+(4,4044
+(5,4064
+(6,4108
+(7,4240
+Tempo médio = 4077.1428571428573
+Tempo minimo = 4016
+Tempo maximo = 4240
+Mediana = 4044
+Desvio padrão = 5195.551020408164
+Duração de partida = 46321
+Quantidade de rodadas = 13
+Escore obtido = 100
+
+/////////CHINOOK MONTE CARLO///////
+
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3986
+(2,3991
+(3,3997
+(4,3997
+(5,4003
+(6,4009
+(7,4013
+(8,4014
+(9,4014
+(10,4019
+(11,4019
+(12,4025
+(13,4026
+(14,4027
+(15,4038
+Tempo médio = 4011.866666666667
+Tempo minimo = 3986
+Tempo maximo = 4038
+Mediana = 4014
+Desvio padrão = 201.98222222222228
+Duração de partida = 76243
+Quantidade de rodadas = 15
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3989
+(2,3990
+(3,3991
+(4,3992
+(5,3992
+(6,3995
+(7,3995
+(8,3996
+(9,3999
+(10,4002
+(11,4006
+(12,4008
+(13,4008
+(14,4011
+(15,4022
+(16,4033
+(17,4043
+Tempo médio = 4004.235294117647
+Tempo minimo = 3989
+Tempo maximo = 4043
+Mediana = 3999
+Desvio padrão = 229.59169550173007
+Duração de partida = 84939
+Quantidade de rodadas = 17
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3989
+(2,3991
+(3,3991
+(4,3991
+(5,3996
+(6,3997
+(7,3997
+(8,3999
+(9,4001
+(10,4003
+(11,4003
+(12,4005
+(13,4010
+(14,4014
+(15,4021
+(16,4022
+(17,4022
+(18,4022
+(19,4024
+(20,4024
+(21,4038
+(22,4044
+(23,4049
+(24,4073
+Tempo médio = 4013.5833333333335
+Tempo minimo = 3989
+Tempo maximo = 4073
+Mediana = 4007
+Desvio padrão = 436.07638888888886
+Duração de partida = 116657
+Quantidade de rodadas = 24
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3991
+(2,3991
+(3,3993
+(4,3994
+(5,3995
+(6,3996
+(7,3998
+(8,3998
+(9,4002
+(10,4003
+(11,4004
+(12,4016
+(13,4018
+(14,4019
+(15,4022
+(16,4023
+(17,4024
+(18,4031
+Tempo médio = 4006.5555555555557
+Tempo minimo = 3991
+Tempo maximo = 4031
+Mediana = 4002
+Desvio padrão = 169.02469135802474
+Duração de partida = 89326
+Quantidade de rodadas = 18
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3987
+(2,3990
+(3,3991
+(4,3993
+(5,3997
+(6,3998
+(7,3998
+(8,3998
+(9,3999
+(10,4000
+(11,4002
+(12,4002
+(13,4006
+(14,4007
+(15,4007
+(16,4008
+(17,4017
+(18,4018
+(19,4024
+(20,4031
+(21,4037
+(22,4041
+(23,4046
+(24,4047
+Tempo médio = 4010.1666666666665
+Tempo minimo = 3987
+Tempo maximo = 4047
+Mediana = 4004
+Desvio padrão = 319.63888888888897
+Duração de partida = 116502
+Quantidade de rodadas = 24
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3991
+(2,3992
+(3,3993
+(4,3993
+(5,3994
+(6,3995
+(7,3996
+(8,3998
+(9,3999
+(10,4000
+(11,4000
+(12,4000
+(13,4001
+(14,4005
+(15,4005
+(16,4007
+(17,4007
+(18,4008
+(19,4009
+(20,4010
+(21,4013
+(22,4014
+(23,4018
+(24,4026
+(25,4062
+Tempo médio = 4005.44
+Tempo minimo = 3991
+Tempo maximo = 4062
+Mediana = 4001
+Desvio padrão = 207.5264
+Duração de partida = 121079
+Quantidade de rodadas = 25
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3986
+(2,3991
+(3,3993
+(4,3994
+(5,3994
+(6,3994
+(7,3995
+(8,3996
+(9,3997
+(10,3997
+(11,3998
+(12,4002
+(13,4005
+(14,4006
+(15,4007
+(16,4008
+(17,4009
+(18,4009
+(19,4010
+(20,4015
+(21,4018
+(22,4018
+(23,4025
+(24,4032
+(25,4045
+(26,4073
+Tempo médio = 4008.346153846154
+Tempo minimo = 3986
+Tempo maximo = 4073
+Mediana = 4005
+Desvio padrão = 346.2263313609467
+Duração de partida = 125478
+Quantidade de rodadas = 26
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4001
+(2,4002
+(3,4005
+(4,4006
+(5,4014
+(6,4024
+(7,4046
+Tempo médio = 4014.0
+Tempo minimo = 4001
+Tempo maximo = 4046
+Mediana = 4006
+Desvio padrão = 226.0
+Duração de partida = 39575
+Quantidade de rodadas = 7
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4007
+(2,4015
+(3,4016
+(4,4018
+(5,4027
+(6,4031
+(7,4043
+Tempo médio = 4022.4285714285716
+Tempo minimo = 4007
+Tempo maximo = 4043
+Mediana = 4018
+Desvio padrão = 124.53061224489797
+Duração de partida = 39542
+Quantidade de rodadas = 7
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3987
+(2,3998
+(3,3999
+(4,4004
+(5,4013
+(6,4014
+(7,4017
+(8,4019
+(9,4019
+(10,4019
+(11,4021
+(12,4024
+(13,4025
+(14,4026
+(15,4027
+(16,4040
+(17,4044
+(18,4075
+(19,4114
+Tempo médio = 4025.5263157894738
+Tempo minimo = 3987
+Tempo maximo = 4114
+Mediana = 4019
+Desvio padrão = 776.3545706371193
+Duração de partida = 94277
+Quantidade de rodadas = 19
+Escore obtido = 100======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4000)
+(2,4000)
+(3,4001)
+(4,4001)
+(5,4001)
+(6,4001)
+Tempo médio = 4000.6666666666665
+Tempo minimo = 4000
+Tempo maximo = 4001
+Mediana = 4001
+Desvio padrão = 0.22222222222222224
+Duração de partida = 27062
+Quantidade de rodadas = 6
+Escore obtido = 100
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4000)
+(2,4001)
+(3,4001)
+(4,4001)
+(5,4001)
+(6,4001)
+Tempo médio = 4000.8333333333335
+Tempo minimo = 4000
+Tempo maximo = 4001
+Mediana = 4001
+Desvio padrão = 0.13888888888888892
+Duração de partida = 27043
+Quantidade de rodadas = 6
+Escore obtido = 0
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,4001)
+(2,4001)
+(3,4001)
+(4,4001)
+(5,4001)
+(6,4001)
+Tempo médio = 4001.0
+Tempo minimo = 4001
+Tempo maximo = 4001
+Mediana = 4001
+Desvio padrão = 0.0
+Duração de partida = 27046
+Quantidade de rodadas = 6
+Escore obtido = 0
+
+
+
+/////////////////////
+
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3989)
+(2,3991)
+(3,3997)
+(4,3999)
+(5,4008)
+Tempo médio = 3996.8
+Tempo minimo = 3989
+Tempo maximo = 4008
+Mediana = 3997
+Desvio padrão = 44.959999999999994
+Duração de partida = 22546
+Quantidade de rodadas = 5
+Escore obtido = 0
+======Estatisticas Monte Carlo========
+Tempos de deliberação:
+(1,3989)
+(2,3991)
+(3,3993)
+(4,4000)
+(5,4004)
+Tempo médio = 3995.4
+Tempo minimo = 3989
+Tempo maximo = 4004
+Mediana = 3993
+Desvio padrão = 32.239999999999995
+Duração de partida = 22545
+Quantidade de rodadas = 5
+Escore obtido = 0

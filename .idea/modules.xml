@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ggp-base-intellij.iml" filepath="$PROJECT_DIR$/.idea/modules/ggp-base-intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ggp-base-intellij_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ggp-base-intellij_main.iml" group="ggp-base-intellij" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ggp-base-intellij_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ggp-base-intellij_test.iml" group="ggp-base-intellij" />
+    </modules>
+  </component>
+</project>

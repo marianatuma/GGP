@@ -1,0 +1,560 @@
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1, 0
+(2, 0
+(3, 0
+(4, 0
+(5, 0
+(6, 0
+(7, 1
+(8, 1
+(9, 3
+(10,3
+(11,3
+(12,6
+(13,8
+(14,24
+Tempo médio = 3.5
+Tempo minimo = 0
+Tempo maximo = 24
+Mediana = 1
+Desvio padrão = 38.107142857142854
+Duração de partida = 36067
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,0
+(2,0
+(3,0
+(4,0
+(5,0
+(6,1
+(7,1
+(8,2
+(9,2
+(10,2
+(11,2
+(12,3
+Tempo médio = 1.0833333333333333
+Tempo minimo = 0
+Tempo maximo = 3
+Mediana = 1
+Desvio padrão = 1.076388888888889
+Duração de partida = 30920
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,0
+(2,0
+(3,0
+(4,0
+(5,0
+(6,0
+(7,0
+(8,0
+(9,0
+(10,0
+(11,0
+(12,0
+(13,1
+(14,1
+(15,1
+(16,1
+(17,1
+(18,1
+(19,1
+(20,1
+(21,1
+(22,2
+(23,2
+(24,2
+(25,3
+(26,4
+Tempo médio = 0.8461538461538461
+Tempo minimo = 0
+Tempo maximo = 4
+Mediana = 1
+Desvio padrão = 1.0532544378698223
+Duração de partida = 66052
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,0
+(2,0
+(3,0
+(4,0
+(5,0
+(6,0
+(7,1
+(8,1
+(9,1
+(10,1
+(11,1
+(12,1
+(13,1
+(14,1
+(15,2
+(16,2
+(17,2
+(18,5
+Tempo médio = 1.0555555555555556
+Tempo minimo = 0
+Tempo maximo = 5
+Mediana = 1
+Desvio padrão = 1.3858024691358024
+Duração de partida = 45838
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,0
+(2,0
+(3,0
+(4,0
+(5,0
+(6,0
+(7,0
+(8,0
+(9,0
+(10,0
+(11,0
+(12,1
+(13,1
+(14,1
+(15,1
+(16,1
+(17,1
+(18,1
+(19,1
+(20,1
+(21,1
+(22,1
+(23,1
+(24,1
+(25,1
+(26,1
+(27,1
+(28,1
+(29,1
+(30,1
+(31,2
+(32,2
+Tempo médio = 0.71875
+Tempo minimo = 0
+Tempo maximo = 2
+Mediana = 1
+Desvio padrão = 0.3271484375
+Duração de partida = 81240
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,0
+(2,0
+(3,0
+(4,0
+(5,0
+(6,0
+(7,0
+(8,0
+(9,1
+(10,1
+(11,1
+(12,1
+(13,1
+(14,1
+(15,1
+(16,1
+(17,1
+(18,1
+(19,1
+(20,1
+(21,1
+(22,1
+(23,1
+(24,2
+(25,2
+(26,2
+(27,2
+(28,3
+Tempo médio = 0.9285714285714286
+Tempo minimo = 0
+Tempo maximo = 3
+Mediana = 1
+Desvio padrão = 0.5663265306122448
+Duração de partida = 71798
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,0
+(2,0
+(3,0
+(4,0
+(5,0
+(6,0
+(7,0
+(8,0
+(9,0
+(10,0
+(11,0
+(12,1
+(13,1
+(14,1
+(15,1
+(16,1
+Tempo médio = 0.3125
+Tempo minimo = 0
+Tempo maximo = 1
+Mediana = 0
+Desvio padrão = 0.21484375
+Duração de partida = 40602
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,0
+(2,0
+(3,0
+(4,0
+(5,0
+(6,0
+(7,0
+(8,0
+(9,0
+(10,0
+(11,1
+(12,1
+(13,1
+(14,1
+(15,1
+(16,1
+Tempo médio = 0.375
+Tempo minimo = 0
+Tempo maximo = 1
+Mediana = 0
+Desvio padrão = 0.234375
+Duração de partida = 40836
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,0
+(2,0
+(3,0
+(4,0
+(5,0
+(6,0
+(7,0
+(8,0
+(9,1
+(10,1
+(11,1
+(12,2
+Tempo médio = 0.4166666666666667
+Tempo minimo = 0
+Tempo maximo = 2
+Mediana = 0
+Desvio padrão = 0.40972222222222215
+Duração de partida = 30556
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,0
+(2,0
+(3,0
+(4,0
+(5,0
+(6,0
+(7,0
+(8,1
+(9,1
+(10,1
+(11,1
+(12,2
+Tempo médio = 0.5
+Tempo minimo = 0
+Tempo maximo = 2
+Mediana = 0
+Desvio padrão = 0.4166666666666667
+Duração de partida = 30490
+Escore obtido = 0
+
+\\\\\\\\\\ CHINOOK \\\\\\\\\\\\\
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,1
+(2,1
+(3,1
+(4,1
+(5,1
+(6,2
+(7,2
+(8,2
+(9,2
+(10,2
+(11,2
+(12,2
+(13,2
+(14,2
+(15,2
+(16,3
+(17,3
+(18,3
+(19,3
+(20,3
+(21,3
+(22,4
+(23,5
+(24,5
+(25,5
+(26,6
+(27,12
+(28,15
+(29,80
+Tempo médio = 6.0344827586206895
+Tempo minimo = 1
+Tempo maximo = 80
+Mediana = 2
+Desvio padrão = 204.79191438763377
+Duração de partida = 132151
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,1
+(2,1
+(3,1
+(4,1
+(5,2
+(6,2
+(7,2
+(8,2
+(9,2
+(10,2
+(11,2
+(12,3
+(13,3
+(14,3
+(15,4
+(16,5
+Tempo médio = 2.25
+Tempo minimo = 1
+Tempo maximo = 5
+Mediana = 2
+Desvio padrão = 1.1875
+Duração de partida = 72650
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,1
+(2,1
+(3,1
+(4,1
+(5,1
+(6,1
+(7,1
+(8,1
+(9,1
+(10,1
+(11,1
+(12,1
+(13,1
+(14,1
+(15,1
+(16,2
+(17,2
+(18,2
+(19,2
+(20,2
+(21,2
+(22,2
+(23,3
+(24,5
+Tempo médio = 1.5416666666666667
+Tempo minimo = 1
+Tempo maximo = 5
+Mediana = 1
+Desvio padrão = 0.8315972222222222
+Duração de partida = 108889
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,0
+(2,1
+(3,1
+(4,1
+(5,1
+(6,1
+(7,2
+(8,2
+(9,2
+(10,2
+(11,3
+(12,5
+Tempo médio = 1.75
+Tempo minimo = 0
+Tempo maximo = 5
+Mediana = 1
+Desvio padrão = 1.5208333333333333
+Duração de partida = 54629
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,1
+(2,1
+(3,1
+(4,1
+(5,1
+(6,1
+(7,1
+(8,1
+(9,1
+(10,2
+(11,2
+(12,2
+(13,5
+Tempo médio = 1.5384615384615385
+Tempo minimo = 1
+Tempo maximo = 5
+Mediana = 1
+Desvio padrão = 1.1715976331360947
+Duração de partida = 59188
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,1
+(2,1
+(3,1
+(4,1
+(5,1
+(6,1
+(7,1
+(8,1
+(9,1
+(10,2
+(11,2
+(12,2
+(13,2
+(14,2
+(15,2
+(16,2
+(17,2
+(18,2
+(19,4
+Tempo médio = 1.631578947368421
+Tempo minimo = 1
+Tempo maximo = 4
+Mediana = 2
+Desvio padrão = 0.5484764542936289
+Duração de partida = 86337
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,0
+(2,0
+(3,1
+(4,1
+(5,1
+(6,1
+(7,1
+(8,1
+(9,1
+(10,1
+(11,1
+(12,1
+(13,1
+(14,2
+(15,2
+(16,2
+(17,2
+(18,2
+(19,2
+(20,2
+(21,2
+(22,2
+(23,2
+(24,3
+Tempo médio = 1.4166666666666667
+Tempo minimo = 0
+Tempo maximo = 3
+Mediana = 1
+Desvio padrão = 0.4930555555555554
+Duração de partida = 108831
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,1
+(2,1
+(3,1
+(4,1
+(5,1
+(6,1
+(7,1
+(8,1
+(9,1
+(10,1
+(11,2
+(12,2
+(13,2
+(14,2
+(15,2
+(16,2
+(17,3
+Tempo médio = 1.4705882352941178
+Tempo minimo = 1
+Tempo maximo = 3
+Mediana = 1
+Desvio padrão = 0.3667820069204153
+Duração de partida = 77231
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,1
+(2,1
+(3,1
+(4,1
+(5,1
+(6,1
+(7,1
+(8,1
+(9,1
+(10,1
+(11,1
+(12,2
+(13,2
+(14,2
+(15,2
+(16,2
+(17,2
+(18,2
+(19,3
+(20,4
+Tempo médio = 1.6
+Tempo minimo = 1
+Tempo maximo = 4
+Mediana = 1
+Desvio padrão = 0.6400000000000001
+Duração de partida = 90630
+Escore obtido = 0
+======Estatisticas Random Player========
+Tempos de deliberação:
+(1,1
+(2,1
+(3,1
+(4,1
+(5,1
+(6,1
+(7,1
+(8,1
+(9,2
+(10,2
+(11,2
+(12,2
+(13,2
+(14,2
+(15,3
+(16,3
+(17,3
+(18,3
+Tempo médio = 1.7777777777777777
+Tempo minimo = 1
+Tempo maximo = 3
+Mediana = 2
+Desvio padrão = 0.617283950617284
+Duração de partida = 81750
+Escore obtido = 0
