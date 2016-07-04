@@ -22,10 +22,10 @@ import java.util.List;
  * Created by mariana on 6/13/16.
  */
 public class PlannerPlayer extends StateMachineGamer{
-    StateMachine maquina;
-    List<Move> plano;
+    StateMachine stateMachine;
+    List<Move> plan;
     long tempoComeço, tempoFim;
-    int rodada = 0;
+    int turn = 0;
     int escoreEsperado = 0;
 
     HashSet<MachineState> fechada, aberta;
@@ -45,27 +45,27 @@ public class PlannerPlayer extends StateMachineGamer{
             fechada = new HashSet<MachineState>();
             aberta = new HashSet<MachineState>();
 
-            maquina = getStateMachine();
+            stateMachine = getStateMachine();
             tempoComeço = System.currentTimeMillis();
-            plano = new ArrayList<Move>();
-            escoreEsperado = encontraMelhorPlano(maquina.getInitialState());
+            plan = new ArrayList<Move>();
+            escoreEsperado = findBestPlan(stateMachine.getInitialState()); // core of the code
             tempoFim = System.currentTimeMillis();
 
-            int escoreReal = maquina.getGoal(this.getCurrentState(), this.getRole());
+            int escoreReal = stateMachine.getGoal(this.getCurrentState(), this.getRole());
             long tempoDeDeliberacao = tempoFim - tempoComeço;
-            int tamanhoPlano = plano.size();
+            int tamanhoPlano = plan.size();
 
             writer.append("======Estatisticas Planner========\n");
             writer.append("Tempo de deliberação = "+tempoDeDeliberacao+"\n");
-            writer.append("Tamanho do plano = "+tamanhoPlano+"\n");
-            writer.append("Quantidade de rodadas = "+rodada+"\n");
+            writer.append("Tamanho do plan = "+tamanhoPlano+"\n");
+            writer.append("Quantidade de rodadas = "+ turn +"\n");
             writer.append("Escore estimado = "+escoreEsperado+"\n");
             writer.append("Escore obtido = "+escoreReal+"\n");
 
             // Após o cálculo das estatísticas, limpa as estruturas de dados
             tempoComeço = tempoFim = 0;
-            plano = new ArrayList<Move>();
-            escoreEsperado = rodada = 0;
+            plan = new ArrayList<Move>();
+            escoreEsperado = turn = 0;
 
         } catch (GoalDefinitionException e) {
             e.printStackTrace();
@@ -76,31 +76,31 @@ public class PlannerPlayer extends StateMachineGamer{
         }
     }
 
-    private int encontraMelhorPlano(MachineState estado) {
-        List<Move> proximoMovimento;
-        int resultado = 0;
+    private int findBestPlan(MachineState state) {
+        List<Move> nextMove; // this list only exists to pass as a parameter
+        int result = 0;
         try {
-            if(maquina.isTerminal(estado)) {
-                int escore = maquina.getGoal(estado, this.getRole());
-                writer.append(escore+" // "+ estado.toString()+"\n");
-                return maquina.getGoal(estado, this.getRole());
+            if(stateMachine.isTerminal(state)) {
+                int score = stateMachine.getGoal(state, this.getRole());
+                writer.append(score+" // "+ state.toString()+"\n");
+                return stateMachine.getGoal(state, this.getRole());
             }
-            List<Move> movimentos = maquina.getLegalMoves(estado, this.getRole());
+            List<Move> moves = stateMachine.getLegalMoves(state, this.getRole());
 
-            for(Move movimento:movimentos){
-                proximoMovimento= new ArrayList<Move>();
-                proximoMovimento.add(movimento);
-                MachineState proximo = maquina.getNextState(estado, proximoMovimento);
-                if(!fechada.contains(proximo)) {
-                    fechada.add(proximo);
-                    resultado = encontraMelhorPlano(proximo);
-                    if (resultado == 100) {
-                        plano.add(movimento);
+            for(Move move:moves){
+                nextMove= new ArrayList<Move>();
+                nextMove.add(move);
+                MachineState next = stateMachine.getNextState(state, nextMove);
+                if(!fechada.contains(next)) {
+                    fechada.add(next);
+                    result = findBestPlan(next);
+                    if (result == 100) {
+                        plan.add(move);
                         break;
                     }
                 }
             }
-            return resultado;
+            return result;
         } catch (GoalDefinitionException e) {
             e.printStackTrace();
         } catch (MoveDefinitionException e) {
@@ -116,13 +116,13 @@ public class PlannerPlayer extends StateMachineGamer{
 
     @Override
     public Move stateMachineSelectMove(long timeout) throws TransitionDefinitionException, MoveDefinitionException, GoalDefinitionException {
-        if(plano.size() > 0)
-            return plano.get(rodada++); // Retorna o próximo movimento do plano, de acordo com a rodada atual
+        if(plan.size() > 0)
+            return plan.get(turn++); // Retorna o próximo movimento do plan, de acordo com a turn atual
         else{
-            rodada++;
-            // Caso algo tenha dado errado com o plano, retorna um movimento aleatório e continua contando rodadas
-            System.out.println("aleatório");
-            return maquina.getRandomMove(this.getCurrentState(), this.getRole());
+            turn++;
+            // Caso algo tenha dado errado com o plan, retorna um movimento aleatório e continua contando rodadas
+            System.out.println("random");
+            return stateMachine.getRandomMove(this.getCurrentState(), this.getRole());
         }
     }
 

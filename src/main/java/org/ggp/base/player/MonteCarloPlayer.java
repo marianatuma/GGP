@@ -73,7 +73,7 @@ public class MonteCarloPlayer extends StateMachineGamer {
         long tempoFim = System.currentTimeMillis();
         long tempoRodada = tempoFim-tempoComeço;
         if(tempoRodada > 1) { // quando o jogador não tem opção a não ser
-            // noop (rodada do adversário) o tempo de deliberação é zero. Estes tempos são
+            // noop (turn do adversário) o tempo de deliberação é zero. Estes tempos são
             // descontados aqui
             temposDeDeliberacao.add(tempoFim - tempoComeço);
         }
