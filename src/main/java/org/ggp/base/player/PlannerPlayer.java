@@ -15,6 +15,7 @@ import org.ggp.base.util.statemachine.implementation.prover.ProverStateMachine;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 
@@ -28,8 +29,6 @@ public class PlannerPlayer extends StateMachineGamer{
     int rodada = 0;
     int escoreEsperado = 0;
 
-    HashSet<MachineState> fechada, aberta;
-
     FileWriter writer;
 
     @Override
@@ -42,37 +41,28 @@ public class PlannerPlayer extends StateMachineGamer{
         try{
             writer = new FileWriter("outputPlanner.txt", true);
 
-            fechada = new HashSet<MachineState>();
-            aberta = new HashSet<MachineState>();
-
             maquina = getStateMachine();
             tempoComeço = System.currentTimeMillis();
             plano = new ArrayList<Move>();
             escoreEsperado = encontraMelhorPlano(maquina.getInitialState());
             tempoFim = System.currentTimeMillis();
 
-            int escoreReal = maquina.getGoal(this.getCurrentState(), this.getRole());
             long tempoDeDeliberacao = tempoFim - tempoComeço;
             int tamanhoPlano = plano.size();
+            Collections.reverse(plano); // inverte o plano, pois foi gerado à partir do último movimento
 
-            writer.append("======Estatisticas Planner========\n");
-            writer.append("Tempo de deliberação = "+tempoDeDeliberacao+"\n");
-            writer.append("Tamanho do plano = "+tamanhoPlano+"\n");
-            writer.append("Quantidade de rodadas = "+rodada+"\n");
-            writer.append("Escore estimado = "+escoreEsperado+"\n");
-            writer.append("Escore obtido = "+escoreReal+"\n");
+            System.out.print("======Estatisticas Planner========\n");
+            System.out.print("Tempo de deliberação = "+tempoDeDeliberacao+"\n");
+            System.out.print("Tamanho do plano = "+tamanhoPlano+"\n");
+            System.out.print("Quantidade de rodadas = "+rodada+"\n");
+            System.out.print("Escore estimado = "+escoreEsperado+"\n");
 
             // Após o cálculo das estatísticas, limpa as estruturas de dados
             tempoComeço = tempoFim = 0;
-            plano = new ArrayList<Move>();
             escoreEsperado = rodada = 0;
 
-        } catch (GoalDefinitionException e) {
-            e.printStackTrace();
-            System.out.println("ERRO");
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("ERRO");
         }
     }
 
@@ -82,7 +72,6 @@ public class PlannerPlayer extends StateMachineGamer{
         try {
             if(maquina.isTerminal(estado)) {
                 int escore = maquina.getGoal(estado, this.getRole());
-                writer.append(escore+" // "+ estado.toString()+"\n");
                 return maquina.getGoal(estado, this.getRole());
             }
             List<Move> movimentos = maquina.getLegalMoves(estado, this.getRole());
@@ -91,13 +80,10 @@ public class PlannerPlayer extends StateMachineGamer{
                 proximoMovimento= new ArrayList<Move>();
                 proximoMovimento.add(movimento);
                 MachineState proximo = maquina.getNextState(estado, proximoMovimento);
-                if(!fechada.contains(proximo)) {
-                    fechada.add(proximo);
-                    resultado = encontraMelhorPlano(proximo);
-                    if (resultado == 100) {
-                        plano.add(movimento);
-                        break;
-                    }
+                resultado = encontraMelhorPlano(proximo);
+                if (resultado == 100) {
+                    plano.add(movimento);
+                    break;
                 }
             }
             return resultado;
@@ -107,10 +93,7 @@ public class PlannerPlayer extends StateMachineGamer{
             e.printStackTrace();
         } catch (TransitionDefinitionException e) {
             e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
         }
-
         return -1;
     }
 
@@ -121,15 +104,20 @@ public class PlannerPlayer extends StateMachineGamer{
         else{
             rodada++;
             // Caso algo tenha dado errado com o plano, retorna um movimento aleatório e continua contando rodadas
-            System.out.println("aleatório");
             return maquina.getRandomMove(this.getCurrentState(), this.getRole());
         }
     }
 
     @Override
     public void stateMachineStop() {
-
-
+        try {
+            rodada = 0;
+            plano = new ArrayList<Move>(); // descarta o plano
+            int escoreReal = maquina.getGoal(this.getCurrentState(), this.getRole());
+            System.out.print("Escore obtido = "+escoreReal+"\n");
+        } catch (GoalDefinitionException e) {
+            e.printStackTrace();
+        }
     }
 
     @Override
